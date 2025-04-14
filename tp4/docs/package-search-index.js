@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"vlille"},{"l":"vlille.util"}];updateSearchResults();

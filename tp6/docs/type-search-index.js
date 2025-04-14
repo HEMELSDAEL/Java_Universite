@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"image.util","l":"ImageDisplayer"},{"p":"image","l":"ImageInterface"},{"p":"image.util","l":"ImageLoader"}]
